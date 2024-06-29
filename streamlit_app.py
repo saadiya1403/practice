@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 
+st.page_link("login.py", label="Home", icon="🏠"
 
 st.title("📊 Data evaluation app by me")
 
